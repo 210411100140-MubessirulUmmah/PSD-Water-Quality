@@ -12096,3 +12096,6 @@ AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
                    estimator=None, learning_rate=1.0, n_estimators=50,
                    random_state=2025)
 2023-11-26 19:07:02,839:INFO:create_model() successfully completed......................................
+2023-11-27 06:02:02,452:WARNING:C:\Users\Lenovo\anaconda3\Lib\site-packages\_distutils_hack\__init__.py:33: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+
